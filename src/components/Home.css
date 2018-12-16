@@ -1,0 +1,31 @@
+.App {
+    text-align: center;
+  }
+
+  #Heading {
+    color: seagreen;
+  }
+  
+  .App-header {
+    background-image: url(../HomePic.jpg);
+    background-size: 100% 100%;
+    background-color:#2892D7;
+    font-family: inherit;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(150px + 1vmin);
+    color: black;
+  }
+  .Button {
+    font-size: calc(30px + 3vmin);
+    font-family: cursive;
+  }
+  
+  .App-link {
+    color: white;
+    font-size: calc(10px + 2vmin);
+  }
+  
